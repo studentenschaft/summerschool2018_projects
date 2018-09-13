@@ -11,3 +11,12 @@ https://github.com/matthiasrossini/work-in-progtris
 * Daphni Lehmann
 * Matthias Rossini
 * Ira Welz
+
+## Snake Game
+https://github.com/JassJZ/Snake
+
+## INTIM-IN-Team
+https://github.com/JdeBuysRoessingh/intim-in-team
+
+## Mr. Robot
+https://github.com/Maureen-SHSG/mr-robot
