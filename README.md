@@ -8,6 +8,6 @@ https://github.com/de-los-Code/Leftovers_project
 ## Tetris Game
 https://github.com/matthiasrossini/work-in-progtris
 * Andre Bittencourt
-* Daphne Lehmann
+* Daphni Lehmann
 * Matthias Rossini
 * Ira Welz
