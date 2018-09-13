@@ -1,4 +1,4 @@
-# summerschool2018_projects
+# Summer School by SHSG - Group Projects
 Aggregation of projects of the 2 Week Summer School by SHSG bootcamp.
 
 ## Nyx
