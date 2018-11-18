@@ -20,3 +20,6 @@ https://github.com/JdeBuysRoessingh/intim-in-team
 
 ## Mr. Robot
 https://github.com/Maureen-SHSG/mr-robot
+
+## RateYourCourse
+https://github.com/RateYourCourse/RateYourCourse
